@@ -43,6 +43,8 @@ Figure 2 安卓手机示例（添加微信登录之后）
 PlayerId SDK需要Unity 2019.2及以上。开发者可以通过Unity的 Package Manger Window 下载PlayerId SDK.  
 * 通过**Window ► Package Manger**打开Package Manger Window
 * 勾选 **Advanced ► Show preview packages**
+* 2020及以后版本打开Editor的设置 **Project Settings ► Package Manger**,在 **Advanced Settings**下勾选 **Enable Preview Packages**
+
 * 搜索package并安装, 关键字为Player Identity(CN)。
 
 ![](images/SearchPacakge.png)
